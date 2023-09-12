@@ -1,2 +1,4 @@
 # snake_pygame
-Wystarczy pobrać SNAKE.exe
+SNAKE.exe available
+Created to practice basics od Python.
+
